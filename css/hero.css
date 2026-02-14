@@ -1,5 +1,5 @@
 .hero-section {
-    background: url(../../images/banners/hero.jpg) no-repeat center;
+    background: url(../images/banners/hero.jpg) no-repeat center;
     background-size: cover;
     height: 31.25rem;
     position: relative;
@@ -44,7 +44,7 @@ font-weight: 400;
 @media (max-width: 768px) {
 .hero-section {
     height: 41.25rem;
-    background-image: url(../../images/banners/hero-mobile.jpg);
+    background-image: url(../images/banners/hero-mobile.jpg);
 }
 .hero-overla{
     padding: 0;
