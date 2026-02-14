@@ -31,7 +31,6 @@ O projeto segue uma organização modular de estilos:
 ```text
 ecommerce-syntaxwear/
 ├── css/
-│   ├── components/    # Estilos específicos de cada seção (header, hero, footer, etc.)
 │   ├── base.css       # Estilos globais
 │   ├── reset.css      # Reset de estilos do navegador
 │   └── variables.css  # Variáveis de cores e fontes
